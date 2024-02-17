@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio del Modulo 2, febrero de 2024
+Este proyecto es una prueba de como crear un repositorio y clonarlo al repositorio local.
